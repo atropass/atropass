@@ -55,6 +55,3 @@ CI/CD pipelines, scalable API deployment, and orchestration with Docker, Argo Wo
 - Email: aibar.berekeyev@gmail.com  
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atropass&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atropass&layout=compact)
