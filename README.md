@@ -53,5 +53,3 @@ CI/CD pipelines, scalable API deployment, and orchestration with Docker, Argo Wo
 
 - LinkedIn: [linkedin.com/in/aibar-berekeyev-794250250](https://www.linkedin.com/in/aibar-berekeyev-794250250)  
 - Email: aibar.berekeyev@gmail.com  
-
----
